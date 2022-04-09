@@ -1,0 +1,52 @@
+li {
+    margin: 20px;
+    text-align: left;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+#p1 {
+    text-align: justify;
+    margin: 20px;
+}
+
+#crimson-font {
+    font-family: 'Work Sans',
+        sans-serif;
+}
+
+h1 {
+    margin: 20px;
+}
+
+#nyit {
+    margin-top: 20px;
+    width: 150px;
+    margin-left: 50px;
+}
+
+#edu-wrapper {
+    margin: 20px;
+    width: 15rem;
+    display: inline-flex;
+    border-radius: 6px;
+}
+
+#edu-text {
+    font-size: small;
+}
+
+#job-wrapper {
+    margin: 20px;
+    width: 15rem;
+    display: inline-flex;
+    border-radius: 6px;
+}
+
+#revature{
+    margin-top: 20px;
+    width: 150px;
+    margin-left: 50px;
+}

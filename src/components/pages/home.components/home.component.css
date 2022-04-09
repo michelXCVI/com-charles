@@ -1,0 +1,141 @@
+#crimson-font {
+    font-family: 'Work Sans',
+        sans-serif;
+}
+
+#media-wrapper {
+    margin: 10px;
+    width: 8rem;
+    display: inline-flex;
+    border-radius: 6px;
+
+}
+
+#github {
+    float: center;
+    margin-left: 10px;
+    width: 50px;
+}
+
+#linkedIn {
+    float: center;
+    margin-left: 10px;
+    width: 50px;
+}
+
+#gmail {
+    float: center;
+    margin-left: 10px;
+    width: 50px;
+}
+
+#aws {
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 85px;
+}
+
+#bootstrap {
+    margin-top: 10px;
+    margin-left: 38px;
+    width: 50px;
+}
+
+#css {
+    margin-top: 10px;
+    margin-left: 45px;
+    width: 50px
+}
+
+#express {
+    margin-top: 10px;
+    margin-left: 38px;
+    width: 50px;
+}
+
+#html {
+    margin-top: 10px;
+    margin-left: 45px;
+    width: 50px
+}
+
+#js {
+    margin-top: 10px;
+    margin-left: 38px;
+    width: 50px;
+}
+
+#jenkins {
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 30px;
+}
+
+#json {
+    margin-top: 10px;
+    margin-left: 38px;
+    width: 50px;
+}
+
+#jwt {
+    margin-top: 10px;
+    margin-left: 38px;
+    width: 50px;
+}
+
+#m-ui {
+    margin-top: 10px;
+    margin-left: 35px;
+    width: 63px;
+}
+
+#node {
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 100px;
+}
+
+#post {
+    margin-top: 10px;
+    margin-left: 38px;
+    width: 50px;
+}
+
+#react {
+    margin-top: 10px;
+    margin-left: 38px;
+    width: 55px;
+}
+
+#ts {
+    margin-top: 10px;
+    margin-left: 38px;
+    width: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
